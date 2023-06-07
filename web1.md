@@ -32,6 +32,7 @@
 ![black.png](black.png)
 7. изменение размера и смещение расположения иконки "домой":
 ![initial size.png](initial size.png)
+домик больше
 ![move and size.png](move and size.png)
 8. очищенное тело страницы:
 ![empty page.png](empty page.png)
